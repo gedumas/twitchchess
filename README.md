@@ -16,7 +16,7 @@ Nice TODO
 Stream
 -----
 
-https://www.twitch.tv/tomcr00s3
+https://youtu.be/RFaFmkCEGEs
 
 Usage
 -----
@@ -56,4 +56,3 @@ Training Set
 -----
 
 The value function was trained on 5M board positions from http://www.kingbase-chess.net/
-
